@@ -21,3 +21,16 @@ Mestrado Engenharia Informática e Multimédia - ISEL
 resorting to any library like TensorFlow/Keras.
 
 * In the second objective several MLP networks were trained with the databaseCIFAR-10.
+
+---
+
+#### The third project is the binary and multi-class classification of images through convolutional neural networks (CNNs), using the Oxford-IIIT Pet Dataset database.
+
+The binary classification task consists of distinguishing between images of dogs and cats, and
+the multi-class classification task consists of classifying images into one of 37 breeds of dogs
+and cats. 
+
+* For both tasks a CNN network was trained from scratch.
+* A pre-trained Keras Network was chosen, and applied to the multi-class classification task.
+* Data augmentation techniques were used.
+
