@@ -17,9 +17,7 @@ Mestrado Engenharia Informática e Multimédia - ISEL
 
 #### The second project is based on implementing, training and testing Multi-Layer Perceptron (MLP) neural networks.
 
-A three-layer MLP network, for the task of binary classification of two-dimensional data (XOR pro-blem) was implemented without
+* A three-layer MLP network, for the task of binary classification of two-dimensional data (XOR pro-blem) was implemented without
 resorting to any library like TensorFlow/Keras.
 
-
-
-In the second objective several MLP networks were trained with the databaseCIFAR-10.
+* In the second objective several MLP networks were trained with the databaseCIFAR-10.
